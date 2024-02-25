@@ -1,0 +1,22 @@
+body{
+    font-family: "Libre Franklin", sans-serif;
+}
+
+.name-highlight{
+    color:coral;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+
+.half img{
+    width: 100%;
+}
